@@ -1,16 +1,16 @@
 {
-"name": "wizdomwonders",
-"theme": "wizdom wonders",
-"version": "4.8.9",
-"description": "wizdom wonders ทางเข้าเว็บไซต์สล็อตเว็บตรง อันดับ 1 แจกเครดิตฟรี",
-"keywords": [
-"wizdom wonders",
-"wizdom wonders เครดิตฟรี",
-"wizdom wonders ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wizdomwonders",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wizdomwonders",
+  "theme": "wizdom wonders",
+  "version": "4.9.0",
+  "description": "wizdom wonders ทางเข้าเว็บไซต์สล็อตเว็บตรง อันดับ 1 แจกเครดิตฟรี",
+  "keywords": [
+    "wizdom wonders",
+    "wizdom wonders เครดิตฟรี",
+    "wizdom wonders ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wizdomwonders",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
